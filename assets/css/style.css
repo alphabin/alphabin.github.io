@@ -89,7 +89,6 @@ body{
 .frontNav{
     background-color: rgb(77,171,165);
     color: whitesmoke;
-    width: 300px;
     text-align: center;
 }
 
@@ -145,6 +144,7 @@ a{
 
 p{
     padding: 10px;
+    line-height: 20px;
 }
 
 form {
