@@ -234,3 +234,16 @@ img {
     display: inline-block;
     flex-wrap: wrap;
 }
+
+/*MEDIA QUERY*/
+@media only screen and (max-width : 640px) {
+    .headerHorizontal div{
+        display:block;
+        padding: 1px;
+        margin: 1px;
+
+    }    
+    .headerHorizontal .backNav {
+        margin-left: 5%;
+    }
+}
